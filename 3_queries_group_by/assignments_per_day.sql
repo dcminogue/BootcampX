@@ -8,6 +8,3 @@ ORDER BY day;
 
 
 
--- Select the day and the total assignments.
--- Order the results by day.
--- This query only requires the assignments table.
